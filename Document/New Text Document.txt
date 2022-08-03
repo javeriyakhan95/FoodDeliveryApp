@@ -1,0 +1,50 @@
+ Food Delivery WebApp.
+OBJECTIVES :->
+Food delivery apps is  the new and most favorite  app among  the people and this is the final verdict. The ease food delivery app offers to the people who don’t want to cook at home.
+Service and facilities:->
+	EatFit is the perfect food delivery platform for the people .
+	Can Order food anytime.
+	Can Check order status.
+	Can track the  Real-time order.
+	Can easily Scheduled deliveries.
+	Online payment facilities.
+
+Features of EatFit App:->
+	Home
+	Menu
+	About Us
+	Login Form 
+	Add to cart and order the food
+	Search bar
+	Order Rescheduling features
+	History management
+	Payment module
+	Feedback and reviews
+	Help and Support
+
+Use Case:->
+                                     
+Title	Actor	Functionality
+1.Online food application	Visitors	User email address and password
+2.Approve login user	Customer	Search username 
+Password validation .
+
+3.Search and Find food easily	Customer	By type  of food(fast food, vegetarian dishes more gourmet dishes)
+3.Add the food to cart	Customer	Add the items on the cart and simply place their order more than once 
+4.Make it Easy to Pay	Customer	There  Should be facility for the customer to pay online payment or cash on delivery.
+Make sure that if they choose to pay online, their online payment information should be safe.
+5.Rate and reviewing 	Customer	Customers may give their reviews on our services and may rate it.
+		
+
+
+
+
+Technologies used:->
+React.js
+Material UI
+CSS
+JS
+Node JS
+AXIOS
+MOGO DB
+
